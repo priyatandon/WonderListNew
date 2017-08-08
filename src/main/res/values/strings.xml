@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wonderlist</string>
+    <string name="to_do_list">To Do List</string>
+    <string name="saveButton">Save</string>
+</resources>
